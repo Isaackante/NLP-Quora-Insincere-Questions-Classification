@@ -27,7 +27,7 @@ Install Python and required libraries: pip install -r requirements.txt
 Model Architecture: A simple feedforward neural network with multiple fully connected layers. It takes an input with 1000 features and uses the ReLU activation function between each layer, with a single output unit. This architecture is suitable for a wide range of NLP classification tasks.
 
 Training: 
-To train the FeedForwardModel:
+To train the FeedForwardModel
 
 Define the model architecture with four linear layers.
 Forward input data through the layers with ReLU activations.
