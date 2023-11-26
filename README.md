@@ -3,17 +3,7 @@ Overview
 
 Description: This NLP project aims to classify Quora questions as either sincere or insincere. It uses machine learning and natural language processing techniques to identify and flag insincere or potentially harmful questions on the platform.
 
-Table of Contents:
 
-Installation
-Usage
-Data
-Models
-Contributing
-License
-Installation
-
-Dependencies:
 
 Python 3.x
 Libraries (e.g., NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow)
