@@ -27,14 +27,6 @@ Evaluate the model's performance on validation data.
 
 Model Performance: accuracy, F1-score
 
-
-Contributing
-Provide guidelines for others who want to contribute to your project.
-
-Contributing Guidelines: Explain how others can contribute, report issues, or suggest improvements.
-
-Code Style: Specify any coding style guidelines or tools used (e.g., PEP 8, Black).
-
 License
 Include the project's license to clarify how others can use and distribute your code. Common licenses include MIT, Apache, or GPL.
 
